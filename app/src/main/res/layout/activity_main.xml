@@ -13,7 +13,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="Espelho"
-        android:id="@+id/btnEpelho" />
+        android:id="@+id/btnEspelho" />
 
     <Button
         android:layout_width="fill_parent"
