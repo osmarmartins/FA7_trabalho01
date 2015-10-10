@@ -6,14 +6,14 @@
     <Button
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Android na WEB"
+        android:text="Android - Saiba mais..."
         android:id="@+id/btnAndroidWeb" />
 
     <Button
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Espelho"
-        android:id="@+id/btnEspelho" />
+        android:text="Localização FA7"
+        android:id="@+id/btnLocalizacaoFA7" />
 
     <Button
         android:layout_width="fill_parent"
